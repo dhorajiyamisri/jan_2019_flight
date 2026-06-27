@@ -417,27 +417,14 @@ Future enhancements that can make this project even better:
 
 If you like this project, consider giving it a ⭐ on GitHub.
 
-<p align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/⭐%20Star%20Repository-black?style=for-the-badge&logo=github">
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Fork-blue?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
 ---
 
 # 👨‍💻 Author
 
 **xyz**
-
-📧 [your@email.com]
 ---
-``` 
+```
+```
 # 🙏 Thank You
 
 <p align="center">
@@ -451,8 +438,6 @@ If you like this project, consider giving it a ⭐ on GitHub.
 <p align="center">
 If you found this project helpful, don't forget to leave a ⭐ on the repository.
 </p>
-
-```
 ---
 
 <p align="center">
