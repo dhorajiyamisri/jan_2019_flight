@@ -1,123 +1,105 @@
-<div align="center" style="background-color:#F5F7FA; padding:25px; border-radius:15px;">
-
-<!-- ✈️ BANNER -->
-<img src="logo.png" width="50%"/>
-
-<br><br>
-
-<!-- 👋 WELCOME GIF -->
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="140"/>
-
-<h1>✈️ Airline Flight Delay & Cancellation Analytics</h1>
-
-<!-- ⌨️ Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Welcome+to+My+Project;Python+EDA+Analysis;Power+BI+Dashboard;Data+Driven+Insights" />
-
-<br>
-
-<!-- 🟦 BADGES -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge"/>
-
-</div>
-
----
-
-# 🧭 NAVIGATION
+<!-- ========================================================= -->
+<!--                         LOGO                              -->
+<!-- ========================================================= -->
 
 <p align="center">
-<a href="#about-project"><img src="https://img.shields.io/badge/About_Project-2563EB?style=for-the-badge"/></a>
-<a href="#objectives"><img src="https://img.shields.io/badge/Objectives-10B981?style=for-the-badge"/></a>
-<a href="#dataset"><img src="https://img.shields.io/badge/Dataset-F59E0B?style=for-the-badge"/></a>
-<a href="#tech-stack"><img src="https://img.shields.io/badge/Tech_Stack-8B5CF6?style=for-the-badge"/></a>
+  <img src="assets/logo.png" width="50" alt="Logo">
+</p>
+
+<!-- ========================================================= -->
+<!--                        BANNER                             -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img src="assets/banner.png" width="50%" alt="Banner">
+</p>
+
+<!-- ========================================================= -->
+<!--                     WELCOME GIF                           -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img src="assets/welcome.gif" width="700" alt="Welcome">
+</p>
+
+<h1 align="center">
+✈️ Airline Delay & Cancellation Analytics Dashboard
+</h1>
+
+<h3 align="center">
+Analyze • Visualize • Discover • Improve Airline Performance
+</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
+
+<img src="https://img.shields.io/badge/DAX-005CA5?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/CSV-4CAF50?style=for-the-badge">
+
 </p>
 
 ---
 
-# 📌 ABOUT PROJECT
+# 📌 Project Overview
 
-✈️ This project analyzes airline **flight delays and cancellations** using Python & Power BI.
+This project presents an **interactive Airline Delay & Cancellation Analytics Dashboard** built using **Python** and **Microsoft Power BI**.
 
-✔ Understand delay patterns  
-✔ Analyze cancellation reasons  
-✔ Compare airline performance  
-✔ Generate business insights  
+The dashboard transforms raw flight data into meaningful business insights by analyzing airline performance, flight delays, cancellation trends, airport traffic, and operational efficiency.
 
----
+It helps identify:
 
-# 🎯 PROJECT OBJECTIVES
-
-✔ Analyze departure delays  
-✔ Analyze arrival delays  
-✔ Study cancellation trends  
-✔ Identify busiest airports  
-✔ Compare airlines  
+- ✈️ Airlines with the highest delays
+- 📍 Busiest airports
+- ⏳ Delay patterns throughout the week
+- ❌ Flight cancellation trends
+- 📈 Overall airline performance
 
 ---
 
-# 📂 DATASET
+## ✨ Project Highlights
 
-| Column | Description |
-|--------|-------------|
-| OP_CARRIER | Airline Code |
-| ORIGIN | Departure Airport |
-| DEST | Arrival Airport |
-| DEP_DEL15 | Delay Flag |
-| ARR_DEL15 | Arrival Delay |
-| CANCELLED | Flight Status |
+✔ Data Cleaning using Python
 
----
+✔ Data Analysis using Pandas
 
-# 🛠 TECH STACK
+✔ Interactive Power BI Dashboard
 
-<div align="center">
+✔ KPI Cards
 
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,github,vscode" />
+✔ Airline Performance Analysis
 
-</div>
+✔ Airport Analysis
 
----
+✔ Delay Trend Analysis
 
-# 🔄 PROJECT WORKFLOW
+✔ Cancellation Analysis
 
-Data Collection → Cleaning → EDA → Visualization → Power BI Dashboard → Insights
+✔ Business Insights
+
+✔ Professional Dashboard Design
 
 ---
 
-# 📊 EXPLORATORY DATA ANALYSIS (EDA)
+# 🎯 Project Objective
 
-✔ Missing value handling  
-✔ Data cleaning using Pandas  
-✔ Correlation analysis  
-✔ Delay pattern detection  
+<p align="center">
+<img src="assets/airline.gif" width="650">
+</p>
 
----
+The primary goal of this project is to understand airline operations by analyzing flight delays and cancellations.
 
-# 🐍 PYTHON ANALYSIS
+This dashboard helps users quickly identify:
 
-✔ Pandas for data manipulation  
-✔ NumPy for numerical operations  
-✔ Matplotlib & Seaborn for visualization  
-
----
-
-# 💡 BUSINESS INSIGHTS
-
-✔ Some airlines have consistently higher delays  
-✔ Certain airports show high congestion  
-✔ Weather & timing affect cancellations  
-✔ Peak hours increase delay probability  
-
----
-
-# 📁 FOLDER STRUCTURE
-
-```text
-📦 Project
- ┣ 📂 data
- ┣ 📂 notebooks
- ┣ 📂 visuals
- ┣ 📂 powerbi
- ┗ 📜 README.md
+- Airlines with poor performance
+- Airports experiencing heavy delays
+- Weekly delay patterns
+- Cancellation percentages
+- Operational trends for decision making
