@@ -2,8 +2,9 @@
 <!--                         LOGO                              -->
 <!-- ========================================================= -->
 
-<p align="center">
-  <img src="assets/logo.png" width="50" alt="Logo">
+<div align="center">
+
+<img src="logo.png" width="180" alt="Airline Analytics Logo">
 </p>
 
 <!-- ========================================================= -->
@@ -11,7 +12,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="assets/banner.png" width="50%" alt="Banner">
+  <img src="banner.png" width="50%" alt="Banner">
 </p>
 
 <!-- ========================================================= -->
