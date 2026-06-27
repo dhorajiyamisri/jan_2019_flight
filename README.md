@@ -427,10 +427,6 @@ If you like this project, consider giving it a ⭐ on GitHub.
 ```
 # 🙏 Thank You
 
-<p align="center">
-<img src="assets/thanks.gif" width="450">
-</p>
-
 <h3 align="center">
 ✈️ Thank You for Visiting My Project ❤️
 </h3>
