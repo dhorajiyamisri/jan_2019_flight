@@ -8,7 +8,7 @@
 
 ### 📊 Exploratory Data Analysis (EDA)
 
-### 🐍 Python • 🐼 Pandas • 📊 Power BI
+## 🐍 Python • 🐼 Pandas • 📊 Power BI
 
 <br>
 
