@@ -383,3 +383,258 @@ Studied delay patterns across different days of the week.
 Converted raw airline data into meaningful insights for better business decisions.
 
 ---
+
+---
+
+# 🛠️ Technologies Used
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy">
+
+<img src="https://img.shields.io/badge/DAX-005CA5?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/CSV-4CAF50?style=for-the-badge">
+
+</p>
+
+---
+
+## 💻 Technology Stack
+
+| Technology | Purpose |
+|------------|---------|
+| 🐍 Python | Data Cleaning & Preprocessing |
+| 📊 Power BI | Dashboard Development |
+| 🐼 Pandas | Data Manipulation |
+| 🔢 NumPy | Numerical Operations |
+| 📈 DAX | KPI & Measures |
+| 📂 CSV | Dataset Storage |
+
+---
+
+# 📂 Dataset Information
+
+<p align="right">
+<img src="assets/dataset.gif" width="260">
+</p>
+
+The project uses an airline flight dataset containing operational flight information.
+
+### Dataset Includes
+
+- Flight Records
+- Airline Names
+- Airport Information
+- Flight Delays
+- Flight Cancellation Status
+- Flight Dates
+- Day of Week
+- Flight Performance
+
+---
+
+## 📊 Dataset Workflow
+
+```text
+Raw Dataset
+      │
+      ▼
+Python Cleaning
+      │
+      ▼
+Processed Dataset
+      │
+      ▼
+Power BI
+      │
+      ▼
+Interactive Dashboard
+```
+
+---
+
+# 📁 Project Structure
+
+```text
+Airline-Delay-Analytics/
+│
+├── assets/
+│   ├── logo.png
+│   ├── banner.png
+│   ├── welcome.gif
+│   ├── airline.gif
+│   ├── dashboard.gif
+│   ├── dataset.gif
+│   ├── thanks.gif
+│   ├── dashboard1.png
+│   ├── dashboard2.png
+│   └── dashboard3.png
+│
+├── flight.ipynb
+├── flight_300.csv
+├── Airline Dashboard.pbix
+├── README.md
+└── LICENSE
+```
+
+---
+
+# ⚙️ Installation
+
+Clone this repository
+
+```bash
+git clone https://github.com/YourUsername/Airline-Delay-Analytics.git
+```
+
+Go to the project folder
+
+```bash
+cd Airline-Delay-Analytics
+```
+
+Install dependencies
+
+```bash
+pip install pandas numpy matplotlib
+```
+
+Run the notebook
+
+```bash
+jupyter notebook
+```
+
+Open
+
+```
+flight.ipynb
+```
+
+For dashboard visualization, open
+
+```
+Airline Dashboard.pbix
+```
+
+using Microsoft Power BI Desktop.
+
+---
+
+# 🚀 Future Improvements
+
+<p align="center">
+<img src="assets/future.gif" width="500">
+</p>
+
+Future enhancements planned for this project include:
+
+- 🌍 Airport Map Visualization
+- 🤖 Flight Delay Prediction using Machine Learning
+- ☁️ Weather Data Integration
+- 📡 Real-Time Flight API
+- 📱 Mobile-Friendly Dashboard
+- 📊 Advanced DAX Measures
+- 📈 Forecasting & Trend Analysis
+- 🔔 Automated Reports
+
+---
+
+# 🌟 Project Highlights
+
+✅ Interactive Dashboard
+
+✅ Python Data Cleaning
+
+✅ Airline Performance Analysis
+
+✅ Delay Analysis
+
+✅ Cancellation Analysis
+
+✅ Airport Analysis
+
+✅ Dynamic Filters
+
+✅ KPI Cards
+
+✅ Business Insights
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome.
+
+If you'd like to improve this project:
+
+1. Fork this repository
+2. Create a new branch
+3. Make your changes
+4. Commit your changes
+5. Submit a Pull Request
+
+---
+
+# ⭐ Support
+
+If you found this project useful, don't forget to give it a ⭐ on GitHub.
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/⭐%20Star%20Repository-GitHub-black?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+# 🙏 Acknowledgements
+
+Special thanks to the open-source community and Microsoft Power BI for providing powerful tools for data visualization and analytics.
+
+---
+
+# 📬 Contact
+
+Feel free to connect for suggestions or collaboration.
+
+<p align="center">
+
+<a href="https://github.com/YourUsername">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com/in/YourUsername">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="assets/thanks.gif" width="650">
+
+</p>
+
+<h2 align="center">
+✈️ Thank You for Visiting This Project ❤️
+</h2>
+
+<p align="center">
+Made with ❤️ using Python & Power BI
+</p>
