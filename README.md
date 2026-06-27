@@ -107,9 +107,11 @@ This dashboard helps users quickly identify:
 
 ---
 
+---
+
 # 📚 Table of Contents
 
-- [📌 About Project](#-project-overview)
+- [📌 Project Overview](#-project-overview)
 - [🎯 Project Objective](#-project-objective)
 - [🎬 Project Demo](#-project-demo)
 - [🖥️ Dashboard Preview](#️-dashboard-preview)
@@ -119,7 +121,7 @@ This dashboard helps users quickly identify:
 - [🐍 Python Workflow](#-python-workflow)
 - [📊 Power BI Workflow](#-power-bi-workflow)
 - [💡 Business Insights](#-business-insights)
-- [🛠️ Technologies](#️-technologies-used)
+- [🛠️ Technologies Used](#️-technologies-used)
 - [📁 Project Structure](#-project-structure)
 - [⚙️ Installation](#️-installation)
 - [🚀 Future Improvements](#-future-improvements)
@@ -131,121 +133,253 @@ This dashboard helps users quickly identify:
 <p align="center">
 
 <a href="#">
-<img src="https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge&logo=powerbi">
+<img src="https://img.shields.io/badge/📊%20Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Project-Demo-success?style=for-the-badge&logo=googlechrome">
+<img src="https://img.shields.io/badge/🐍%20Python-Code-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Python-Code-yellow?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/📂%20Dataset-CSV-success?style=for-the-badge">
 </a>
 
 </p>
 
-> 📌 Replace the links above with your GitHub repository, Power BI dashboard, or demo video.
+> Replace the links above with your GitHub Repository, Power BI Dashboard or Demo Video.
 
 ---
 
 # 🖥️ Dashboard Preview
 
-The dashboard is divided into three interactive pages, each designed to answer different business questions related to airline operations.
+The Power BI report is divided into **three interactive dashboard pages**, each designed to analyze a different aspect of airline performance. Together, these dashboards provide a complete overview of flight operations, delays, cancellations, airport activity, and airline efficiency.
 
 ---
 
-## 📍 Dashboard 1 — Overview
+# 📍 Dashboard 1 — Overview Dashboard
 
 <p align="center">
 <img src="assets/dashboard1.png" width="100%">
 </p>
 
-### This page provides:
+## 📖 Description
 
-- ✈️ Total Flights
-- 📉 Delay Rate
-- ❌ Cancellation Rate
-- 🏢 Top Airports
-- 📊 Airline Delay Comparison
-- 📅 Weekly Delay Trend
+The **Overview Dashboard** provides a quick summary of the airline dataset. It highlights the most important performance indicators so users can instantly understand the operational status of airlines without exploring the complete dataset.
 
 ---
 
-## 📍 Dashboard 2 — Airline Analysis
+### 🎯 KPI Cards Used
+
+✈️ **Total Flights**
+
+Displays the total number of flights available in the dataset.
+
+---
+
+⏳ **Delay Rate**
+
+Shows the percentage of delayed flights, helping identify overall operational efficiency.
+
+---
+
+❌ **Cancellation Rate**
+
+Represents the percentage of cancelled flights within the dataset.
+
+---
+
+### 📊 Visualizations Used
+
+#### 📊 Airline Delay Analysis
+
+A **Bar Chart** compares delay percentages across different airlines, making it easy to identify airlines experiencing the highest operational delays.
+
+---
+
+#### 🏢 Top Airports
+
+Another **Bar Chart** displays airports with the highest flight traffic, helping understand airport activity.
+
+---
+
+#### 📈 Delay Trend by Day
+
+A **Line Chart** visualizes delay trends across different days of the week, making weekly performance analysis simple.
+
+---
+
+### 💼 Business Value
+
+✅ Monitor airline performance
+
+✅ Identify busiest airports
+
+✅ Analyze weekly delay trends
+
+✅ Support operational planning
+
+---
+
+# 📍 Dashboard 2 — Airline Analysis Dashboard
 
 <p align="center">
 <img src="assets/dashboard2.png" width="100%">
 </p>
 
-### This page helps users:
+## 📖 Description
 
-- Filter airlines
-- Compare cancellations
-- Analyze airline performance
-- Explore flight data interactively
+This dashboard allows users to perform detailed airline-wise analysis using interactive filters. It focuses on flight cancellations and enables users to explore airline performance dynamically.
 
 ---
 
-## 📍 Dashboard 3 — Performance Details
+### 🎯 Filters Used
+
+✈️ **Airline Name**
+
+Allows users to analyze a specific airline.
+
+---
+
+📅 **Day of Month**
+
+Filters flight data for a selected day.
+
+---
+
+### 📊 Visualizations Used
+
+#### 🥧 Cancellation Analysis
+
+A **Pie Chart** displays the proportion of cancelled and non-cancelled flights, making cancellation analysis simple and easy to understand.
+
+---
+
+#### 🎛️ Interactive Slicers
+
+Slicers provide dynamic filtering, allowing users to instantly update all visuals based on airline or date selection.
+
+---
+
+### 💼 Business Value
+
+✅ Compare airline performance
+
+✅ Analyze cancellation trends
+
+✅ Explore airline data interactively
+
+✅ Improve operational decision-making
+
+---
+
+# 📍 Dashboard 3 — Performance Details Dashboard
 
 <p align="center">
 <img src="assets/dashboard3.png" width="100%">
 </p>
 
-### This dashboard focuses on:
+## 📖 Description
 
-- KPI Cards
-- Delay Percentage
-- Cancellation Percentage
-- Airline Count
-- Delay Trend
+The **Performance Details Dashboard** focuses on key operational metrics. It provides a concise summary of airline efficiency through KPI cards and performance trends.
+
+---
+
+### 🎯 KPI Cards Used
+
+✈️ **Total Flights**
+
+Displays the total number of flights processed.
+
+---
+
+⏳ **Delay Rate**
+
+Shows the percentage of delayed flights.
+
+---
+
+❌ **Cancellation Rate**
+
+Displays the overall cancellation percentage.
+
+---
+
+🏢 **Total Airlines**
+
+Represents the number of airlines included in the analysis.
+
+---
+
+### 📊 Visualizations Used
+
+#### 📈 Delay Trend
+
+A trend chart helps monitor changes in delay rates over time.
+
+---
+
+#### 🎯 KPI Cards
+
+KPI Cards provide quick access to important business metrics, enabling faster analysis and decision-making.
+
+---
+
+### 💼 Business Value
+
+✅ Track airline efficiency
+
+✅ Evaluate operational performance
+
+✅ Monitor delays and cancellations
+
+✅ Support business decisions using data
 
 ---
 
 # ✨ Key Features
 
 <p align="right">
-<img src="assets/dashboard.gif" width="270">
+<img src="assets/dashboard.gif" width="280">
 </p>
 
-## 🔹 Data Cleaning
+### 🧹 Data Cleaning
 
-Raw flight data was cleaned using Python to remove missing values, duplicate records, and inconsistent data before visualization.
-
----
-
-## 🔹 Interactive Dashboard
-
-Power BI provides an interactive dashboard where users can filter data dynamically using slicers.
+Cleaned and prepared raw flight data using Python to ensure accurate analysis.
 
 ---
 
-## 🔹 KPI Cards
+### 📊 Interactive Dashboard
 
-Important metrics such as Total Flights, Delay Rate, Cancellation Rate, and Airlines are displayed using KPI cards.
-
----
-
-## 🔹 Airline Performance
-
-Compare airline performance based on delays and cancellations.
+Designed an interactive Power BI dashboard with dynamic filters and slicers.
 
 ---
 
-## 🔹 Airport Analysis
+### 📈 KPI Cards
 
-Identify airports with the highest number of flights and operational delays.
-
----
-
-## 🔹 Trend Analysis
-
-Visualize delay patterns across different days to identify peak operational issues.
+Created KPI cards to display important business metrics at a glance.
 
 ---
 
-## 🔹 Business Insights
+### ✈️ Airline Performance Analysis
 
-Transform raw airline data into meaningful insights that help improve operational efficiency and decision-making.
+Compared airline performance using delay and cancellation metrics.
+
+---
+
+### 🏢 Airport Analysis
+
+Analyzed airport traffic and operational efficiency.
+
+---
+
+### 📅 Delay Trend Analysis
+
+Studied delay patterns across different days of the week.
+
+---
+
+### 💡 Business Insights
+
+Converted raw airline data into meaningful insights for better business decisions.
 
 ---
