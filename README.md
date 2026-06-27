@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="images/banner.png" alt="Airline Flight Delay & Cancellation Analytics Banner" width="100%">
-</p>
+<div align="center">
+
+<img src="images/banner.png" alt="Banner" width="100%">
 
 <br>
 
@@ -149,3 +149,4 @@ This project analyzes airline flight delays and cancellations using **Python** a
 
 ---
 
+### ⭐ If you like this project, don't forget to give it a Star.
