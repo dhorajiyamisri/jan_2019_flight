@@ -70,9 +70,6 @@ The objective of this project is to transform raw flight data into meaningful bu
 </a>
 
 </p>
-
-> Replace the links above with your GitHub Repository or Power BI Dashboard.
-
 ---
 
 # 📚 Table of Contents
@@ -108,18 +105,15 @@ The Power BI dashboard is divided into **three interactive pages**. Each dashboa
 
 ## 📖 Overview
 
-The **Overview Dashboard** presents the most important flight statistics at a glance. It helps users quickly understand airline performance, airport traffic, and weekly delay trends.
+**Overview Dashboard** presents the most important flight statistics at a glance. It helps users quickly understand airline performance, airport traffic, and weekly delay trends.
 
 ### 🎯 KPI Cards
 
 ✈️ **Total Flights**
-> Displays the total number of flights available in the dataset.
 
 ⏳ **Delay Rate**
-> Shows the percentage of delayed flights.
 
 ❌ **Cancellation Rate**
-> Displays the percentage of cancelled flights.
 
 ### 📊 Visualizations
 
