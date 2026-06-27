@@ -1,23 +1,10 @@
-```md
-<!-- =============================== -->
-<!--            LOGO                 -->
-<!-- =============================== -->
-
 <p align="center">
   <img src="assets/logo.png" width="170">
 </p>
 
-<!-- =============================== -->
-<!--           BANNER                -->
-<!-- =============================== -->
-
 <p align="center">
   <img src="assets/banner.png" width="100%">
 </p>
-
-<!-- =============================== -->
-<!--        WELCOME GIF              -->
-<!-- =============================== -->
 
 <p align="center">
 <img src="assets/welcome.gif" width="700">
@@ -108,7 +95,7 @@ The objective of this project is to transform raw flight data into meaningful bu
 - 🚀 Future Scope
 - 🙏 Thank You
 
-```md
+
 # 🖥️ Dashboard Preview
 
 The Power BI dashboard is divided into **three interactive pages**. Each dashboard provides unique insights into airline performance, delays, cancellations, and operational efficiency.
@@ -247,7 +234,7 @@ The Performance Dashboard summarizes key airline metrics and helps users monitor
 
 ---
 ```
-````md
+```
 # ✨ Key Features
 
 <img align="right" src="assets/dashboard.gif" width="220">
@@ -314,32 +301,6 @@ The dashboard uses different visualizations to simplify airline data.
 - Day Filter
 
 ---
-
-# 🐍 Python Workflow
-
-<img align="right" src="assets/airline.gif" width="200">
-
-The raw flight dataset is cleaned and prepared using Python before visualization.
-
-```text
-Raw Dataset
-      │
-      ▼
-Import CSV
-      │
-      ▼
-Data Cleaning
-      │
-      ▼
-Handle Missing Values
-      │
-      ▼
-Remove Duplicates
-      │
-      ▼
-Export Clean Dataset
-````
-
 ### ✔ Tasks Performed
 
 * Import Dataset
@@ -351,26 +312,6 @@ Export Clean Dataset
 <br clear="right"/>
 
 ---
-
-# 📊 Power BI Workflow
-
-The cleaned dataset is imported into Power BI to create an interactive dashboard.
-
-```text
-Clean Dataset
-      │
-      ▼
-Power BI
-      │
-      ▼
-Data Modeling
-      │
-      ▼
-DAX Measures
-      │
-      ▼
-Interactive Dashboard
-```
 
 ### ✔ Dashboard Components
 
@@ -409,9 +350,6 @@ The dashboard helps airlines and analysts make informed decisions by identifying
 
 ---
 
-```
-```
-````md
 # 🛠️ Technologies Used
 
 <p align="center">
@@ -440,7 +378,7 @@ The dashboard helps airlines and analysts make informed decisions by identifying
 
 # 📂 Project Structure
 
-```text
+
 Airline-Delay-Analytics/
 │
 ├── assets/
@@ -460,48 +398,9 @@ Airline-Delay-Analytics/
 ├── README.md
 └── LICENSE
 ````
-
----
-
-# ⚙️ Installation
-
-Clone this repository
-
-```bash
-git clone https://github.com/YourUsername/Airline-Delay-Analytics.git
-```
-
-Move to project folder
-
-```bash
-cd Airline-Delay-Analytics
-```
-
-Install required libraries
-
-```bash
-pip install pandas numpy matplotlib
-```
-
-Open Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Run
-
-```text
-flight.ipynb
-```
-
-Open the dashboard using **Microsoft Power BI Desktop**.
-
----
-
 # 🚀 Future Scope
 
-<img align="right" src="assets/airline.gif" width="220">
+<img align="right" src="assets/airline.gif" width="50">
 
 Future enhancements that can make this project even better:
 
@@ -538,7 +437,7 @@ If you like this project, consider giving it a ⭐ on GitHub.
 
 **Dhorajiya Misari**
 
-📧 [your@email.com](mailto:your@email.com)
+📧 [your@email.com]
 ---
 
 # 🙏 Thank You
@@ -561,10 +460,3 @@ If you found this project helpful, don't forget to leave a ⭐ on the repository
 
 ⭐ **Made with Python, Power BI & Passion for Data Analytics** ✈️
 
-</p>
-```
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=120&section=footer"/>
-</p>
----
-```
