@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="airline.gif" width="800%" alt="3D Flight Animation">
+<img src="airline.gif" width="50%" alt="3D Flight Animation">
 
 <br><br>
 
