@@ -352,19 +352,10 @@ Future improvements for this project:
 
 <br clear="right"/>
 
----
-
-# ⭐ Support
-
-If you like this project, please consider giving it a ⭐ on GitHub.
-
-</p>
-
----
 
 # 👨‍💻 Author
 
-### xyz
+### Dhorajiya Misari
 
 ---
 
@@ -379,7 +370,3 @@ If you found this project useful, don't forget to leave a ⭐ on the repository.
 </p>
 
 ---
-
-<p align="center">
-
-### ⭐ Made with ❤️ using Python & Power BI ✈️
