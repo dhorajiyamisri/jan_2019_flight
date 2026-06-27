@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="700" alt="Welcome">
+</p>
+
+<p align="center">
   <img src="logo.png" width="170" alt="Logo">
 </p>
 
