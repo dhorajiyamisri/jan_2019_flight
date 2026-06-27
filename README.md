@@ -1,7 +1,6 @@
-<div align="center">
-
-<img src="airline.gif" width="50%" alt="3D Flight Animation">
-
+<p align="center">
+  <img src="banner.png" alt="Airline Flight Delay & Cancellation Analytics Banner" width="100%">
+</p>
 <br><br>
 
 # ✈️ Airline Flight Delay & Cancellation Analytics
