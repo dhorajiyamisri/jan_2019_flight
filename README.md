@@ -77,3 +77,47 @@
 <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,github,vscode" />
 
 </div>
+
+---
+
+# 🔄 PROJECT WORKFLOW
+
+Data Collection → Cleaning → EDA → Visualization → Power BI Dashboard → Insights
+
+---
+
+# 📊 EXPLORATORY DATA ANALYSIS (EDA)
+
+✔ Missing value handling  
+✔ Data cleaning using Pandas  
+✔ Correlation analysis  
+✔ Delay pattern detection  
+
+---
+
+# 🐍 PYTHON ANALYSIS
+
+✔ Pandas for data manipulation  
+✔ NumPy for numerical operations  
+✔ Matplotlib & Seaborn for visualization  
+
+---
+
+# 💡 BUSINESS INSIGHTS
+
+✔ Some airlines have consistently higher delays  
+✔ Certain airports show high congestion  
+✔ Weather & timing affect cancellations  
+✔ Peak hours increase delay probability  
+
+---
+
+# 📁 FOLDER STRUCTURE
+
+```text
+📦 Project
+ ┣ 📂 data
+ ┣ 📂 notebooks
+ ┣ 📂 visuals
+ ┣ 📂 powerbi
+ ┗ 📜 README.md
