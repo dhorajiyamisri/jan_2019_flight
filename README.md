@@ -1,7 +1,7 @@
 <div align="center" style="background-color:#F5F7FA; padding:25px; border-radius:15px;">
 
 <!-- ✈️ BANNER -->
-<img src="logo.png" width="100%"/>
+<img src="logo.png" width="50%"/>
 
 <br><br>
 
