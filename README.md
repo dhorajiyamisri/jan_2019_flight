@@ -394,6 +394,8 @@ Airline-Delay-Analytics/
 ├── README.md
 └── LICENSE
 ````
+````
+---
 # 🚀 Future Scope
 
 <img align="right" src="assets/airline.gif" width="50">
@@ -431,11 +433,11 @@ If you like this project, consider giving it a ⭐ on GitHub.
 
 # 👨‍💻 Author
 
-**Dhorajiya Misari**
+**xyz**
 
 📧 [your@email.com]
 ---
-
+``` 
 # 🙏 Thank You
 
 <p align="center">
@@ -450,9 +452,10 @@ If you like this project, consider giving it a ⭐ on GitHub.
 If you found this project helpful, don't forget to leave a ⭐ on the repository.
 </p>
 
+```
 ---
 
 <p align="center">
 
 ⭐ **Made with Python, Power BI & Passion for Data Analytics** ✈️
-
+---
