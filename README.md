@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="600" alt="Welcome">
+ <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="350" alt="Welcome My Project">
 </p>
 
 <p align="center">
