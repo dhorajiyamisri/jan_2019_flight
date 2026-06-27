@@ -358,12 +358,6 @@ Future improvements for this project:
 
 If you like this project, please consider giving it a ⭐ on GitHub.
 
-<p align="center">
-
-<a href="https://github.com/YourUsername">
-<img src="https://img.shields.io/badge/⭐%20Star%20Repository-black?style=for-the-badge&logo=github">
-</a>
-
 </p>
 
 ---
@@ -390,8 +384,3 @@ If you found this project useful, don't forget to leave a ⭐ on the repository.
 
 ### ⭐ Made with ❤️ using Python & Power BI ✈️
 
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:F2C811,100:87CEEB&section=footer"/>
-</p>
