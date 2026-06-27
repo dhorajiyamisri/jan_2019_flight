@@ -1,13 +1,9 @@
 <p align="center">
-  <img src="assets/logo.png" width="170">
+  <img src="logo.png" width="170">
 </p>
 
 <p align="center">
-  <img src="assets/banner.png" width="100%">
-</p>
-
-<p align="center">
-<img src="assets/welcome.gif" width="700">
+  <img src="banner.png" width="100%">
 </p>
 
 <h1 align="center">
