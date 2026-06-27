@@ -4,9 +4,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=✈️+Airline+Flight+Delay+%26+Cancellation+Analytics;📊+Exploratory+Data+Analysis+(EDA);📈+Interactive+Power+BI+Dashboard;🚀+Turning+Flight+Data+into+Business+Insights" alt="Typing SVG"/>
-
-<br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
