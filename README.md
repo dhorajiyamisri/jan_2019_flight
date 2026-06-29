@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="logo.png" width="170" alt="Logo">
+  <img src="image/logo.png" width="170" alt="Logo">
 </p>
 
 <p align="center">
-  <img src="banner.png" width="100%" alt="Banner">
+  <img src="image/banner.png" width="100%" alt="Banner">
 </p>
 
 <h1 align="center">✈️ Airline Delay & Cancellation Analytics Dashboard</h1>
