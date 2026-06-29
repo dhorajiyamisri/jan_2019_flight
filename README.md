@@ -175,13 +175,6 @@ This page focuses on airline-wise analysis using interactive filters and slicers
 ---
 
 # 📍 Dashboard 3 — Performance Details
-
-<p align="center">
-  <img src="assets/dashboard3.png" width="100%">
-</p>
-
-<img align="right" src="assets/airline.gif" width="180">
-
 ### 📖 Overview
 
 The Performance Dashboard summarizes operational efficiency using KPI cards and trend analysis, helping users evaluate airline performance quickly.
