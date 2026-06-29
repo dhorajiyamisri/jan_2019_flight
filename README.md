@@ -1,16 +1,6 @@
 <p align="center">
-  <img src="logo.png" width="170" alt="Logo">
+  <img src="image/logo.png" width="170" alt="Logo">
 </p>
-
-<p align="center">
-  <img src="banner.png" width="100%" alt="Banner">
-</p>
-
-<h1 align="center">✈️ Airline Delay & Cancellation Analytics Dashboard</h1>
-
-<h3 align="center">
-Analyze • Visualize • Discover • Improve Airline Performance
-</h3>
 
 <p align="center">
 
@@ -29,6 +19,16 @@ Analyze • Visualize • Discover • Improve Airline Performance
 </p>
 
 <p align="center">
+
+<h1 align="center">✈️ Airline Delay & Cancellation Analytics Dashboard</h1>
+
+<h3 align="center">
+Analyze • Visualize • Discover • Improve Airline Performance
+</h3>
+
+<p align="center">
+  <img src="imagebanner.png" width="100%" alt="Banner">
+</p>
 
 <a href="#">
 <img src="https://img.shields.io/badge/📊%20Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
