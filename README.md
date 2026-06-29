@@ -51,7 +51,7 @@ Analyze airline delays, cancellations, airport performance, and operational effi
 ---
 
 <p align="center">
-<img src="banner.png" width="100%">
+<img src="image/banner.png" width="100%">
 </p>
 
 ---
